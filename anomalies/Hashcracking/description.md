@@ -1,0 +1,12 @@
+#Hashcracking
+Crack each of the following hashes and submit the decoded answer.
+
+1.)  b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86
+
+2.)  955aaa2fa2e75257b11fc1703d8ec4b0
+
+3.)  695d4ced86d4a03d927248af0e1f6468
+
+4.)  3e3f7919804dd4df867e37a68342419d9e25dded
+
+5.)  5245a52778d684fa698f69861fb2e058b308f6a74fed5bf2fe77d97bad5e071c 
